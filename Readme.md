@@ -3,7 +3,7 @@
 
 Это первый учебный проект, сделанный в [Яндекс практикуме](https://practicum.yandex.ru). В нем была реализована верстка по предоставленному макету с использованием CSS анимаций, и iframe элементов.
 
-<img align="left" alt="GIF" src="https://github.com/vivan1992/how-to-learn/blob/c9d651ad31df021340a4d6e72556ab7d15fd7f4a/previewHowToLearn.gif?raw=true" width="640" height="308" />
+<img alt="GIF" src="https://github.com/vivan1992/how-to-learn/blob/c9d651ad31df021340a4d6e72556ab7d15fd7f4a/previewHowToLearn.gif?raw=true" width="640" height="308" />
 
 ### Стек технологий:
 
